@@ -194,7 +194,7 @@ int main(void)
             printf("Đang thoát chương trình...");
             break;
         default:
-            printf("Sai cu phap!");
+            printf("Sai cu phap!\n");
             break;
         }
     } while (answer != 7);
